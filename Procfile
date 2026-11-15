@@ -1,0 +1,1 @@
+web gunicorn racquet_table_sport.wsgi
